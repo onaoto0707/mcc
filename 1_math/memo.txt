@@ -1,0 +1,58 @@
+1
+入力：１つの数値
+出力：１つの数値
+
+2
+入力：2つの数値
+出力：１つの数値
+
+3
+in: many numbers
+out: one number
+
+4
+in: one number
+out; one number
+
+5
+in: one number
+out: many pairs of the two numbers
+
+6
+in: one number
+out: many number
+
+
+7
+in: no input
+out many pairs of the two numbers
+
+8 http://y0m0r.hateblo.jp/entry/20131205/1386251599
+in: no input
+out: many numbers
+
+9
+in: one number
+out: many numbers
+
+10
+in: no input
+out: many tuples of the three numbers
+
+11
+in: one number
+out: string?
+
+12:
+in; no input
+out: two number
+
+
+
+13
+input: no input
+out: one number
+
+14:
+input; one number
+out: string
