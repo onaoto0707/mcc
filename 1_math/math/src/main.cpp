@@ -23,5 +23,8 @@ int main(int argc, char* argv[])
 		return -1;
 	}
 
-	return pSolver->Solve() ? 0 : -1;
+	pSolver->Solve();
+
+	return 0;
+
 }

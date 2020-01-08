@@ -127,11 +127,40 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="include\problem_1.h" />
+    <ClInclude Include="include\problem_10.h" />
+    <ClInclude Include="include\problem_11.h" />
+    <ClInclude Include="include\problem_12.h" />
+    <ClInclude Include="include\problem_13.h" />
+    <ClInclude Include="include\problem_14.h" />
+    <ClInclude Include="include\problem_2.h" />
+    <ClInclude Include="include\problem_3.h" />
+    <ClInclude Include="include\problem_4.h" />
+    <ClInclude Include="include\problem_5.h" />
+    <ClInclude Include="include\problem_6.h" />
+    <ClInclude Include="include\problem_7.h" />
+    <ClInclude Include="include\problem_8.h" />
+    <ClInclude Include="include\problem_9.h" />
     <ClInclude Include="include\solver.h" />
     <ClInclude Include="include\type.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\problem_1.cpp" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\problem_10.cpp" />
+    <ClCompile Include="src\problem_11.cpp" />
+    <ClCompile Include="src\problem_12.cpp" />
+    <ClCompile Include="src\problem_13.cpp" />
+    <ClCompile Include="src\problem_14.cpp" />
+    <ClCompile Include="src\problem_2.cpp" />
+    <ClCompile Include="src\problem_3.cpp" />
+    <ClCompile Include="src\problem_4.cpp" />
+    <ClCompile Include="src\problem_5.cpp" />
+    <ClCompile Include="src\problem_6.cpp" />
+    <ClCompile Include="src\problem_7.cpp" />
+    <ClCompile Include="src\problem_8.cpp" />
+    <ClCompile Include="src\problem_9.cpp" />
+    <ClCompile Include="src\solver.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
